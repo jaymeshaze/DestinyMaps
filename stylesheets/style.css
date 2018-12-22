@@ -3,7 +3,7 @@ body, html {
 }
 
 .bg {
-	background-image: url("Forsaken.jpg");
+	background-image: url("../resources/Forsaken.jpg");
 	height: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
